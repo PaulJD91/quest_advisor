@@ -1,0 +1,4 @@
+.flaskenv
+.env
+__pycache__
+migrations
